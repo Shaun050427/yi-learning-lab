@@ -1,0 +1,392 @@
+{
+  "retrievedAt": "2026-10-11",
+  "origin": "https://zh.wikisource.org/wiki/周易",
+  "basis": "公有领域古籍正文；录入标点保留",
+  "hexagrams": [
+    {
+      "number": 1,
+      "traditional": "乾",
+      "source": "https://zh.wikisource.org/wiki/周易/乾",
+      "revision": "2404991"
+    },
+    {
+      "number": 2,
+      "traditional": "坤",
+      "source": "https://zh.wikisource.org/wiki/周易/坤",
+      "revision": "2404999"
+    },
+    {
+      "number": 3,
+      "traditional": "屯",
+      "source": "https://zh.wikisource.org/wiki/周易/屯",
+      "revision": "10643482"
+    },
+    {
+      "number": 4,
+      "traditional": "蒙",
+      "source": "https://zh.wikisource.org/wiki/周易/蒙",
+      "revision": "10645379"
+    },
+    {
+      "number": 5,
+      "traditional": "需",
+      "source": "https://zh.wikisource.org/wiki/周易/需",
+      "revision": "10643261"
+    },
+    {
+      "number": 6,
+      "traditional": "訟",
+      "source": "https://zh.wikisource.org/wiki/周易/訟",
+      "revision": "10645409"
+    },
+    {
+      "number": 7,
+      "traditional": "師",
+      "source": "https://zh.wikisource.org/wiki/周易/師",
+      "revision": "2405011"
+    },
+    {
+      "number": 8,
+      "traditional": "比",
+      "source": "https://zh.wikisource.org/wiki/周易/比",
+      "revision": "10645543"
+    },
+    {
+      "number": 9,
+      "traditional": "小畜",
+      "source": "https://zh.wikisource.org/wiki/周易/小畜",
+      "revision": "10645530"
+    },
+    {
+      "number": 10,
+      "traditional": "履",
+      "source": "https://zh.wikisource.org/wiki/周易/履",
+      "revision": "10647513"
+    },
+    {
+      "number": 11,
+      "traditional": "泰",
+      "source": "https://zh.wikisource.org/wiki/周易/泰",
+      "revision": "2106138"
+    },
+    {
+      "number": 12,
+      "traditional": "否",
+      "source": "https://zh.wikisource.org/wiki/周易/否",
+      "revision": "10645603"
+    },
+    {
+      "number": 13,
+      "traditional": "同人",
+      "source": "https://zh.wikisource.org/wiki/周易/同人",
+      "revision": "10645635"
+    },
+    {
+      "number": 14,
+      "traditional": "大有",
+      "source": "https://zh.wikisource.org/wiki/周易/大有",
+      "revision": "10645712"
+    },
+    {
+      "number": 15,
+      "traditional": "謙",
+      "source": "https://zh.wikisource.org/wiki/周易/謙",
+      "revision": "2106142"
+    },
+    {
+      "number": 16,
+      "traditional": "豫",
+      "source": "https://zh.wikisource.org/wiki/周易/豫",
+      "revision": "10645735"
+    },
+    {
+      "number": 17,
+      "traditional": "隨",
+      "source": "https://zh.wikisource.org/wiki/周易/隨",
+      "revision": "10645020"
+    },
+    {
+      "number": 18,
+      "traditional": "蠱",
+      "source": "https://zh.wikisource.org/wiki/周易/蠱",
+      "revision": "2106145"
+    },
+    {
+      "number": 19,
+      "traditional": "臨",
+      "source": "https://zh.wikisource.org/wiki/周易/臨",
+      "revision": "2106146"
+    },
+    {
+      "number": 20,
+      "traditional": "觀",
+      "source": "https://zh.wikisource.org/wiki/周易/觀",
+      "revision": "10645159"
+    },
+    {
+      "number": 21,
+      "traditional": "噬嗑",
+      "source": "https://zh.wikisource.org/wiki/周易/噬嗑",
+      "revision": "10645753"
+    },
+    {
+      "number": 22,
+      "traditional": "賁",
+      "source": "https://zh.wikisource.org/wiki/周易/賁",
+      "revision": "2405035"
+    },
+    {
+      "number": 23,
+      "traditional": "剝",
+      "source": "https://zh.wikisource.org/wiki/周易/剝",
+      "revision": "10645800"
+    },
+    {
+      "number": 24,
+      "traditional": "復",
+      "source": "https://zh.wikisource.org/wiki/周易/復",
+      "revision": "10643037"
+    },
+    {
+      "number": 25,
+      "traditional": "无妄",
+      "source": "https://zh.wikisource.org/wiki/周易/无妄",
+      "revision": "10645038"
+    },
+    {
+      "number": 26,
+      "traditional": "大畜",
+      "source": "https://zh.wikisource.org/wiki/周易/大畜",
+      "revision": "10646304"
+    },
+    {
+      "number": 27,
+      "traditional": "頤",
+      "source": "https://zh.wikisource.org/wiki/周易/頤",
+      "revision": "10643091"
+    },
+    {
+      "number": 28,
+      "traditional": "大過",
+      "source": "https://zh.wikisource.org/wiki/周易/大過",
+      "revision": "10645184"
+    },
+    {
+      "number": 29,
+      "traditional": "坎",
+      "source": "https://zh.wikisource.org/wiki/周易/坎",
+      "revision": "10646381"
+    },
+    {
+      "number": 30,
+      "traditional": "離",
+      "source": "https://zh.wikisource.org/wiki/周易/離",
+      "revision": "10646424"
+    },
+    {
+      "number": 31,
+      "traditional": "咸",
+      "source": "https://zh.wikisource.org/wiki/周易/咸",
+      "revision": "10646450"
+    },
+    {
+      "number": 32,
+      "traditional": "恒",
+      "source": "https://zh.wikisource.org/wiki/周易/恒",
+      "revision": "10646486"
+    },
+    {
+      "number": 33,
+      "traditional": "遯",
+      "source": "https://zh.wikisource.org/wiki/周易/遯",
+      "revision": "10645108"
+    },
+    {
+      "number": 34,
+      "traditional": "大壯",
+      "source": "https://zh.wikisource.org/wiki/周易/大壯",
+      "revision": "10646529"
+    },
+    {
+      "number": 35,
+      "traditional": "晉",
+      "source": "https://zh.wikisource.org/wiki/周易/晉",
+      "revision": "10646579"
+    },
+    {
+      "number": 36,
+      "traditional": "明夷",
+      "source": "https://zh.wikisource.org/wiki/周易/明夷",
+      "revision": "10644507"
+    },
+    {
+      "number": 37,
+      "traditional": "家人",
+      "source": "https://zh.wikisource.org/wiki/周易/家人",
+      "revision": "2405005"
+    },
+    {
+      "number": 38,
+      "traditional": "睽",
+      "source": "https://zh.wikisource.org/wiki/周易/睽",
+      "revision": "10646622"
+    },
+    {
+      "number": 39,
+      "traditional": "蹇",
+      "source": "https://zh.wikisource.org/wiki/周易/蹇",
+      "revision": "2405036"
+    },
+    {
+      "number": 40,
+      "traditional": "解",
+      "source": "https://zh.wikisource.org/wiki/周易/解",
+      "revision": "10646666"
+    },
+    {
+      "number": 41,
+      "traditional": "損",
+      "source": "https://zh.wikisource.org/wiki/周易/損",
+      "revision": "10646704"
+    },
+    {
+      "number": 42,
+      "traditional": "益",
+      "source": "https://zh.wikisource.org/wiki/周易/益",
+      "revision": "10646726"
+    },
+    {
+      "number": 43,
+      "traditional": "夬",
+      "source": "https://zh.wikisource.org/wiki/周易/夬",
+      "revision": "2405003"
+    },
+    {
+      "number": 44,
+      "traditional": "姤",
+      "source": "https://zh.wikisource.org/wiki/周易/姤",
+      "revision": "10646826"
+    },
+    {
+      "number": 45,
+      "traditional": "萃",
+      "source": "https://zh.wikisource.org/wiki/周易/萃",
+      "revision": "10647546"
+    },
+    {
+      "number": 46,
+      "traditional": "升",
+      "source": "https://zh.wikisource.org/wiki/周易/升",
+      "revision": "10646879"
+    },
+    {
+      "number": 47,
+      "traditional": "困",
+      "source": "https://zh.wikisource.org/wiki/周易/困",
+      "revision": "10647032"
+    },
+    {
+      "number": 48,
+      "traditional": "井",
+      "source": "https://zh.wikisource.org/wiki/周易/井",
+      "revision": "10645240"
+    },
+    {
+      "number": 49,
+      "traditional": "革",
+      "source": "https://zh.wikisource.org/wiki/周易/革",
+      "revision": "10643173"
+    },
+    {
+      "number": 50,
+      "traditional": "鼎",
+      "source": "https://zh.wikisource.org/wiki/周易/鼎",
+      "revision": "10647086"
+    },
+    {
+      "number": 51,
+      "traditional": "震",
+      "source": "https://zh.wikisource.org/wiki/周易/震",
+      "revision": "10644930"
+    },
+    {
+      "number": 52,
+      "traditional": "艮",
+      "source": "https://zh.wikisource.org/wiki/周易/艮",
+      "revision": "10647135"
+    },
+    {
+      "number": 53,
+      "traditional": "漸",
+      "source": "https://zh.wikisource.org/wiki/周易/漸",
+      "revision": "2560535"
+    },
+    {
+      "number": 54,
+      "traditional": "歸妹",
+      "source": "https://zh.wikisource.org/wiki/周易/歸妹",
+      "revision": "10647182"
+    },
+    {
+      "number": 55,
+      "traditional": "豐",
+      "source": "https://zh.wikisource.org/wiki/周易/豐",
+      "revision": "10645290"
+    },
+    {
+      "number": 56,
+      "traditional": "旅",
+      "source": "https://zh.wikisource.org/wiki/周易/旅",
+      "revision": "10647234"
+    },
+    {
+      "number": 57,
+      "traditional": "巽",
+      "source": "https://zh.wikisource.org/wiki/周易/巽",
+      "revision": "10644966"
+    },
+    {
+      "number": 58,
+      "traditional": "兌",
+      "source": "https://zh.wikisource.org/wiki/周易/兌",
+      "revision": "2404993"
+    },
+    {
+      "number": 59,
+      "traditional": "渙",
+      "source": "https://zh.wikisource.org/wiki/周易/渙",
+      "revision": "10647580"
+    },
+    {
+      "number": 60,
+      "traditional": "節",
+      "source": "https://zh.wikisource.org/wiki/周易/節",
+      "revision": "2405027"
+    },
+    {
+      "number": 61,
+      "traditional": "中孚",
+      "source": "https://zh.wikisource.org/wiki/周易/中孚",
+      "revision": "10647425"
+    },
+    {
+      "number": 62,
+      "traditional": "小過",
+      "source": "https://zh.wikisource.org/wiki/周易/小過",
+      "revision": "10643238"
+    },
+    {
+      "number": 63,
+      "traditional": "既濟",
+      "source": "https://zh.wikisource.org/wiki/周易/既濟",
+      "revision": "2572417"
+    },
+    {
+      "number": 64,
+      "traditional": "未濟",
+      "source": "https://zh.wikisource.org/wiki/周易/未濟",
+      "revision": "10647450"
+    }
+  ],
+  "textSha256": "1a2c195a17e7577a834da59d4f00180779dc3daf17b48297bc8f05e7ee27869b"
+}

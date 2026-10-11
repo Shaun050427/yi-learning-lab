@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="zh-CN">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#193f39"><meta name="description" content="易学研习室：六十四卦经典、卦象实验、六爻练习、错题复习与个人解读。"><title>易学研习室 · Yi Learning Lab</title><link rel="stylesheet" href="./src/styles.css"><link rel="manifest" href="./manifest.webmanifest"></head>
+<body>
+ <div class="shell">
+  <aside class="sidebar"><a class="brand" href="#home"><span class="seal">易</span><span>易学研习室<small>YI LEARNING LAB</small></span></a><p class="sidebar-label">研习工作台</p><nav aria-label="主导航" id="navigation"></nav><div class="sidebar-bottom"><span class="small">读经典 · 观变化 · 留思考</span><a href="https://shaun050427.github.io/personal-growth-app/" target="_blank" rel="noopener">返回个人成长系统 ↗</a><p>V1.0 · 本机保存，可导出备份</p></div></aside>
+  <main><header class="topbar"><span id="breadcrumb">研习首页</span><div><span class="dot"></span> <span id="save-state" role="status">学习资料已就绪</span><button class="subtle" data-action="goto" data-route="settings">备份与接入</button></div></header><div id="content"></div><footer>《周易》原文与个人解读分层保存 · 六爻结构从下而上 · 确定规则可核验</footer></main>
+ </div><div id="toast" role="status" aria-live="polite"></div>
+ <dialog id="note-dialog"><form id="note-form"><div class="section-heading"><h2>写一张学习卡片</h2><button type="button" class="subtle" data-action="close-note">关闭</button></div><p class="muted">保留自己的理解，再补原文出处。未保存草稿会留在本机。</p><input id="note-id" type="hidden"><div class="form-grid"><label>标题<input id="note-title" maxlength="200" required></label><label>日期<input id="note-date" type="date" required></label><label>类型<select id="note-type"><option>概念卡</option><option>原文卡</option><option>实践卡</option><option>辨析卡</option></select></label><label>关联卦<select id="note-hexagram"></select></label></div><label>我的理解、观察或疑问<textarea id="note-text" maxlength="30000" rows="9" required></textarea></label><label>原文、版本、证据与解释边界<textarea id="note-evidence" maxlength="12000" rows="3"></textarea></label><div class="actions"><button class="primary" type="submit">保存卡片</button><button type="button" data-action="discard-draft">清除草稿</button></div></form></dialog>
+ <input type="file" id="import-file" accept="application/json,.json" hidden><script type="module" src="./src/app.js"></script>
+</body></html>
