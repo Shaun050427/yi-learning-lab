@@ -1,4 +1,4 @@
-const CACHE='yi-learning-lab-v1.0.0';
+const CACHE='yi-learning-lab-v1.0.1';
 const ASSETS=['./','./index.html','./src/styles.css','./src/app.js','./src/data/hexagrams.js','./src/data/trigrams.js','./src/data/lessons.js','./src/engine/hexagram.js','./src/engine/quiz.js','./src/engine/storage.js','./manifest.webmanifest','./icon.svg'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('yi-learning-lab-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
